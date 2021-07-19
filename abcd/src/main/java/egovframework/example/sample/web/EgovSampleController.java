@@ -44,6 +44,7 @@ import org.springmodules.validation.commons.DefaultBeanValidator;
  * @
  * @  수정일      수정자              수정내용 수정내용 테스트입니다.
  * aaaaaaaaaaaaaaaaaaaaaaaaa
+ * bbbbbbbbbbbbbbbbbbbbbbbbbbbbb
  * @ ---------   ---------   -------------------------------
  * @ 2009.03.16           최초생성
  *
